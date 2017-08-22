@@ -1,0 +1,27 @@
+// Ionicons Font Path
+// --------------------------
+
+@font-face {
+ font-family: $cnsicons-font-family;
+ src:url("#{$cnsicons-font-path}/cnsicons.eot?v=#{$cnsicons-version}");
+ src:url("#{$cnsicons-font-path}/cnsicons.eot?v=#{$cnsicons-version}#iefix") format("embedded-opentype"),
+  url("#{$cnsicons-font-path}/cnsicons.ttf?v=#{$cnsicons-version}") format("truetype"),
+  url("#{$cnsicons-font-path}/cnsicons.woff?v=#{$cnsicons-version}") format("woff"),
+  url("#{$cnsicons-font-path}/cnsicons.svg?v=#{$cnsicons-version}#Ionicons") format("svg");
+ font-weight: normal;
+ font-style: normal;
+}
+
+.cns {
+  display: inline-block;
+  font-family: $cnsicons-font-family;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-rendering: auto;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

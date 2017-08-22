@@ -1,0 +1,31 @@
+{
+    "ignore": [
+        "**/.*",
+        "builder",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "version": "1.0",
+    "name": "CNSIcons",
+    "license": "MIT",
+    "authors": [
+        "Kandaguru, Thiruthanikan <thiruthanikan.kandaguru@cns-inc.com>",
+        "Sivalingam, Saravanan <Saravanan.Sivalingam@cns-inc.com>",
+        "Rathinam, Tamilselvan <Tamilselvan.Rathinam@cns-inc.com>"
+    ],
+    "keywords": [
+        "fonts",
+        "icon font",
+        "icons",
+        "cnsicons",
+        "web font"
+    ],
+    "main": [
+        "css/cnsicons.css",
+        "fonts/*"
+    ],
+    "homepage": "https://github.com/urthamizh85/cnsicons",
+    "description": "cnsicons - free and beautiful icons from the creators of CNSI Web Font Framework"
+}

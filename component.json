@@ -1,0 +1,19 @@
+{
+    "repo": "urthamizh85/cnsicons",
+    "development": {},
+    "version": "1.0",
+    "styles": [
+        "css/cnsicons.css"
+    ],
+    "name": "CNSIcons",
+    "dependencies": {},
+    "keywords": [],
+    "license": "MIT",
+    "fonts": [
+        "fonts/cnsicons.eot",
+        "fonts/cnsicons.svg",
+        "fonts/cnsicons.ttf",
+        "fonts/cnsicons.woff"
+    ],
+    "description": "The premium icon font for CNSI Web Font Framework."
+}

@@ -1,0 +1,24 @@
+{
+  "build_hash": "086b101c4488f30d9d04dcb1a8c1cd88",
+  "prefix": "cnsi-",
+  "version": "1.0",
+  "name": "CNSIcons",
+  "icons": [
+    {
+      "code": "0xf145",
+      "name": "NEEDL"
+    },
+    {
+      "code": "0xf138",
+      "name": "calendar-square"
+    },
+    {
+      "code": "0xf13b",
+      "name": "phone-square"
+    },
+    {
+      "code": "0xf13c",
+      "name": "state"
+    }
+  ]
+}

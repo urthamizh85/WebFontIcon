@@ -1,0 +1,36 @@
+{
+    "name": "urthamizh85/cnsicons",
+    "license": [
+        "MIT"
+    ],
+    "extra": {},
+    "authors": [
+        {
+            "role": "Sr. Technical Architect",
+            "homepage": "https://twitter.com/thiruk2014",
+            "name": "Kandaguru, Thiruthanikan",
+            "email": "thiruthanikan.kandaguru@cns-inc.com"
+        },
+        {
+            "role": "Sr. System Analyst",
+            "homepage": "https://twitter.com/saravananexult",
+            "name": "Sivalingam, Saravanan",
+            "email": "Saravanan.Sivalingam@cns-inc.com"
+        },
+        {
+            "role": "Sr. System Analyst",
+            "homepage": "https://twitter.com/urthamizh85",
+            "name": "Rathinam, Tamilselvan",
+            "email": "Tamilselvan.Rathinam@cns-inc.com"
+        }
+    ],
+    "keywords": [
+        "fonts",
+        "icon font",
+        "icons",
+        "cnsicons",
+        "web font"
+    ],
+    "homepage": "http://www.cns-inc.com/",
+    "description": "The premium icon font for CNSI Web Font Framework."
+}
